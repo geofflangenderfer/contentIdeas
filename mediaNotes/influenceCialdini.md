@@ -42,3 +42,21 @@ Q: why should you avoid giving bad news?
 Q: why does it make sense to take a prospect out to dinner/strip club?
 - the positive emotions of the experience are associated with the salesmen and his product via conditioning
 - engages reciprocity principle
+Q: what's the mechanism for the assocatiation principle work?
+- Your associates act as a talisman for you. When you cheer for a team, you're hoping _you_ win.
+Q: why will more SWEs seek FAANG employment during this pandemic?
+- recent loss increases need to associate with high prestige
+Q: what can you say about self-esteem of avid sports fans/groupies?
+- lower than others. You are more likely to seek associative prestige when your self-esteem is low.
+Q: how can you tell if you're interacting with a compliance professional?
+- you feel you like them too quickly/deeply. This indicates some tactic.
+Q: how can you fight back against a compliance pro?
+- consciously separate your liking of the person with the merits of the widget/service they're selling. 
+Q: how will students view a teacher?
+- they'll view him as an authority figure. And, they'll give him compliance because we grow up having obedience reinforced. 
+Q: Why are we swayed by fake authority figures?
+- we associate some authority with them. This overpowers even knowing the person is a fraud.
+Q: what causes people to view you as an authority?
+- have you written a book?
+Q: why is writing a book a good career move?
+- people obey authority. You will gain compliance from clients/peers because the book establishes you as an authority.
