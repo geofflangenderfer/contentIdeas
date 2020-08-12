@@ -60,3 +60,54 @@ Q: what causes people to view you as an authority?
 - have you written a book?
 Q: why is writing a book a good career move?
 - people obey authority. You will gain compliance from clients/peers because the book establishes you as an authority.
+Q: How do you compliance professionals use our authority heuristic against us?
+- pros know that you will click, whirr comply with authority. So they will associate their product/service with that authority:
+  - authority recommends their product/service
+  - fake the authority 
+Q: How can you be viewed as an authority? pg 171
+- title: there's a click, whirr effect when you have the right title: software engineer, Dr., professor
+- size: the bigger I am, the more important I'm perceived.
+- clothes: if you dress like an authority figure, it activates a click, whirr
+- bling: tasteful conspicuous items lend click, whirr activated authority
+- Picture an authority figure from your customer's POV. Assume his title, dress, and habits to assume authority.
+- if i want to sell courses, I need to be viewed as an expert (FAANG, successful SAAS, popular info product)
+Q: how can you combat the authority click-whirr?
+- ask yourself:
+  - what authority evidence is there?
+  - does the expert benefit from lying?
+- look out for misdirection: easily overcome arguments against their product/service, bluffing until perceived then tightening up.
+Q: how can I establish my authority in the bootcamp?
+- argue against my interests: tell them I'm self-taught and a bootcamp isn't the only way to learn.
+- argue that they need to learn like self-taught developers because it will improve their careers
+Q: How can I use scarcity principle to influence students?
+- show them that coding is hard and that's why it's valuable. Not everyone can do this, but we can. We will get to build our passion projects, work at interesting jobs, or even start our own businesses. 
+- hint that I have limited time and that I'm busy outside of class. 
+- fear of loss as non-software jobs are eaten by software. 
+Q: how can I use the scarcity principle to sell apps/courses?
+- limit the supply:
+  - only X spots in the course
+  - sign up for the waitlist
+Q: how do sales pros use the scarcity principle?
+- supply scarcity
+  - highlight scarcity to mark
+  - ask for a sale at this point
+  - resistance overcome when more supply found because of public commitment
+- time scarcity
+  - a time-decaying deal/availability 
+Q: how might a political party influence the public with psychological reactivity? pg 189
+- have their message banned. This makes people more receptive without hearing the message.
+- publicize the banning
+Q: how can I use psycological reactivity to influence students?
+- my boss wouldn't like me telling you how you can teach yourself. They wouldn't enjoy as much of your business. But, I want to teach you how to fish, not feed you once.
+- I've got some strategies for y'all to find your own solutions, but I don't think y'all want them. Let's move on (hopefully this creates reactivity and desire for this info)
+Q: what's the most effective scarcity for sales?
+- scarcity due to social demand. We care more about what others are doing
+- "Use code to get what everyone wants: freedom. You can work from home with a job with high barriers to entry. This isn't easy."
+Q: how can we combat scarcity techniques?
+- learn to take notice of arousal during compliance situations: blood pressure rising, heart beating faster, considering a purchase decision
+- ask yourself if you want the item to possess it or to utilize it
+Q: how can I use competition to influence students?
+- competition creates an emotional response and heightened emotional state
+- I could give praise creating envy in those who don't receive
+Q: how can you predict when someone will use a heuristic?
+- if their decision is complex and they're in a compromised emotional state, they will rely on heuristics
