@@ -1,0 +1,1 @@
+Where do I start? I came into this course scared and uncertain. Geoff really put me at ease. He made content accessible to us as beginners. He guided us as we got stuck. And, he inspired us to believe in ourselves. 

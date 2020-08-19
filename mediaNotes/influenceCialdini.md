@@ -15,20 +15,9 @@ Q: does it matter if compliments are true?
 - no, they produce the same liking effect whether or not they're true
 Q: how can I make users more familiar with me?
 - repeated exposure. The more a customer sees you, the more influence you have over them.
+- this is why students should post on social media
 Q: when does repeated exposure reduce likeability?
 - under unpleasant circumstances: frustration, conflict, or competition
-Q: why does school integration increase racial strife?
-- school makes student compete with each other to answer teacher questions
-- this creates envy for those who are afraid to answer. Jealousy for those who are not called to answer. This conflict reduces likeability among students and races.
-Q: how can you reduce anxiety between groups?
-- get them to voluntarily cooperate towards a common goal
-Q: why does cooperation reduce inter-group conflict?
-- it's difficult to hate someone when you've cooperated to achieve something
-Q: how can you design a course that includes cooperation?
-- jigsaw approach: give each student in a group one piece of the puzzle. Each student must teach their part to the group.
-Q: how can I use the jigsaw puzzle method to sell apps?
-- community forum: jigsaw learning challenge
-- students/users in this scenario must teach their fellow something they don't know. This shared success builds community bonds. Students may perceive the experience more valuable.
 Q: how can you recognize when someone is attempting to deceive with cooperation?
 - point it out when it naturally exists in a situation
 - amplify it when it's only weakly present
@@ -50,6 +39,7 @@ Q: what can you say about self-esteem of avid sports fans/groupies?
 - lower than others. You are more likely to seek associative prestige when your self-esteem is low.
 Q: how can you tell if you're interacting with a compliance professional?
 - you feel you like them too quickly/deeply. This indicates some tactic.
+- you're in a situation where the other would benefit from your compliance
 Q: how can you fight back against a compliance pro?
 - consciously separate your liking of the person with the merits of the widget/service they're selling. 
 Q: how will students view a teacher?
@@ -75,10 +65,11 @@ Q: how can you combat the authority click-whirr?
 - ask yourself:
   - what authority evidence is there?
   - does the expert benefit from lying?
-- look out for misdirection: easily overcome arguments against their product/service, bluffing until perceived then tightening up.
+- look out for misdirection: will give you a small win to lower your guard, then attack
 Q: how can I establish my authority in the bootcamp?
 - argue against my interests: tell them I'm self-taught and a bootcamp isn't the only way to learn.
 - argue that they need to learn like self-taught developers because it will improve their careers
+
 Q: How can I use scarcity principle to influence students?
 - show them that coding is hard and that's why it's valuable. Not everyone can do this, but we can. We will get to build our passion projects, work at interesting jobs, or even start our own businesses. 
 - hint that I have limited time and that I'm busy outside of class. 
@@ -95,7 +86,7 @@ Q: how do sales pros use the scarcity principle?
 - time scarcity
   - a time-decaying deal/availability 
 Q: how might a political party influence the public with psychological reactivity? pg 189
-- have their message banned. This makes people more receptive without hearing the message.
+- have their message banned. This makes people more receptive without hearing the message. (streisand effect)
 - publicize the banning
 Q: how can I use psycological reactivity to influence students?
 - my boss wouldn't like me telling you how you can teach yourself. They wouldn't enjoy as much of your business. But, I want to teach you how to fish, not feed you once.
@@ -109,5 +100,6 @@ Q: how can we combat scarcity techniques?
 Q: how can I use competition to influence students?
 - competition creates an emotional response and heightened emotional state
 - I could give praise creating envy in those who don't receive
+- this also creates negative emotions in non-participants and losers of comp.
 Q: how can you predict when someone will use a heuristic?
 - if their decision is complex and they're in a compromised emotional state, they will rely on heuristics
