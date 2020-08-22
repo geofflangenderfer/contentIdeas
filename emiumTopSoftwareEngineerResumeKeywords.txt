@@ -1,0 +1,7 @@
+Java
+SQL
+JavaScript
+HTML
+Cascading Style Sheets (CSS)
+Python (Programming Language)
+Git
