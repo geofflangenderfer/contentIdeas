@@ -1,0 +1,3 @@
+- document whole learning process
+- write master guide from 0 algorithm knowledge to passing triplebyte interview
+- include triplebyte sign-up link.

@@ -70,7 +70,7 @@ Q: how can I establish my authority in the bootcamp?
 - argue against my interests: tell them I'm self-taught and a bootcamp isn't the only way to learn.
 - argue that they need to learn like self-taught developers because it will improve their careers
 
-Q: How can I use scarcity principle to influence students?
+Q: how can I establish my authority in the bootcamp?
 - show them that coding is hard and that's why it's valuable. Not everyone can do this, but we can. We will get to build our passion projects, work at interesting jobs, or even start our own businesses. 
 - hint that I have limited time and that I'm busy outside of class. 
 - fear of loss as non-software jobs are eaten by software. 
@@ -101,5 +101,46 @@ Q: how can I use competition to influence students?
 - competition creates an emotional response and heightened emotional state
 - I could give praise creating envy in those who don't receive
 - this also creates negative emotions in non-participants and losers of comp.
-Q: how can you predict when someone will use a heuristic?
+Q: how can you predict when someone will use a heuristic? (Q: why are humans hackable?)
 - if their decision is complex and they're in a compromised emotional state, they will rely on heuristics
+
+
+
+
+
+# Soft Tactics
+Q: why will users choose the app with the familiar face over an alternative?
+Q: how can we get users to like us?
+Q: how can you appear similar to your users?
+Q: does it matter if compliments are true?
+Q: how can I make users more familiar with me?
+Q: when does repeated exposure reduce likeability?
+Q: how can you recognize when someone is attempting to deceive with cooperation?
+Q: why should you avoid giving bad news?
+Q: why does it make sense to take a prospect out to dinner/strip club?
+Q: what's the mechanism for the assocatiation principle work?
+Q: why will more SWEs seek FAANG employment during this pandemic?
+Q: what can you say about self-esteem of avid sports fans/groupies?
+Q: how will students view a teacher?
+Q: Why are we swayed by fake authority figures?
+Q: what causes people to view you as an authority?
+Q: why is writing a book a good career move?
+Q: How do you compliance professionals use our authority heuristic against us?
+Q: How can you be viewed as an authority? pg 171
+Q: how can you combat the authority click-whirr?
+Q: how can I establish my authority in the bootcamp?
+Q: How can I use scarcity principle to influence students?
+Q: how can I use the scarcity principle to sell apps/courses?
+Q: how do sales pros use the scarcity principle?
+Q: how might a political party influence the public with psychological reactivity? pg 189
+Q: how can I use psycological reactivity to influence students?
+Q: what's the most effective scarcity for sales?
+Q: how can I use competition to influence students?
+Q: how can you predict when someone will use a heuristic?
+
+# Defense Tactics
+Q: how can we combat scarcity techniques?
+Q: how can you tell if you're interacting with a compliance professional?
+Q: how can you fight back against a compliance pro?
+# Hard Tactics
+Q: how can you use good cop/bad cop skit to close deals?

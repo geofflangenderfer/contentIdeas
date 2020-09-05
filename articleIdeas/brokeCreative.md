@@ -18,3 +18,10 @@ You might be wondering: how does the math work out? Here's a quick rundown for m
 
 Stop wasting your time in a dead end job. The monotonous ones will be the first lost to layoffs and automation. You cannot automate creativity. So start now. Feel free to reach out if you're feeling frustrated and curious about next steps.
 
+- table of top 10 cheapest airbnbs in top 50 US cities
+- how to pay for broke creative time
+  - buy a bike
+  - if you're not ready for 10 hours of biking, start with 30 minutes. Increase 15 minutes per week. Add money to your broke creative fund.
+  - sign up for Uber Eats. I've used Doordash, Uber Eats, and Postmates. It's the best by far for bikes.
+  - when you get to 10 hours per week, you can now afford your broke creative airbnb
+  - quit your job. You can't hold onto another option. It will distract you from your dreams. You can always go back.
